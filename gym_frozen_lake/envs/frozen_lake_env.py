@@ -1,8 +1,8 @@
+import gym.envs.toy_text.discrete as discrete
+import gym.utils as utils
 import numpy as np
 import six
 import sys
-import gym.envs.toy_text.discrete as discrete
-import gym.utils as utils
 
 LEFT = 0
 DOWN = 1
